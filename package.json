@@ -1,0 +1,23 @@
+{
+  "name": "subredditapi.js",
+  "version": "1.0.0",
+  "description": "A simple wrapper for the Reddit API",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "reddit",
+    "redditapi",
+    "image",
+    "reddit",
+    "image",
+    "subreddit"
+  ],
+  "author": "Shamil",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

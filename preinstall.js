@@ -1,0 +1,1 @@
+console.log("Thank you for installing SubRedditAPI.JS! If you have any questions or anything you can either make a new pull request on the repo or you can contact Shamil#0810 on Discord.")
