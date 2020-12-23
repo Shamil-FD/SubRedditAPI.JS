@@ -4,7 +4,7 @@
   "description": "A simple wrapper for the Reddit API",
   "main": "index.js",
   "scripts": {
-    "preinstall": "echo \"Error: no test specified\" && exit 1"
+    "preinstall": "node ./preinstall.js"
   },
   "keywords": [
     "api",
