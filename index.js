@@ -18,7 +18,7 @@ module.exports.random = async function(subreddit) {
 
 /**
  * @param subreddit, a subreddit again.
- * An optional @param sort, the sort type such as 'all', 'hour', 'day', 'week', 'month', 'yeae'
+ * An optional @param sort, the sort type such as 'all', 'hour', 'day', 'week', 'month', 'year'
  */
 
 module.exports.top = async function(subreddit, sort) {
@@ -37,7 +37,7 @@ module.exports.top = async function(subreddit, sort) {
  * @param subreddit, a subreddit
  */
 
-module.exports.new = async function(subreddit) {
+module.exports.newPost = async function(subreddit) {
 	if (!subreddit) throw new TypeError('No subreddit provided!');
 
 	let post = await fetch(
