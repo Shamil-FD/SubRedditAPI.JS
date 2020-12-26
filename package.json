@@ -1,7 +1,7 @@
 {
   "name": "subredditapi.js",
   "version": "1.0.0",
-  "description": "A simple wrapper for the Reddit API",
+  "description": "A module to fetch images and posts from Reddit",
   "main": "index.js",
   "scripts": {
     "preinstall": "node ./preinstall.js"
