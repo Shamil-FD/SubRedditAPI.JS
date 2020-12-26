@@ -23,5 +23,6 @@
     "repository": {
     "type": "git",
     "url": "git+https://github.com/Shamil-FD/SubRedditAPI.JS.git"
-  }
+  },
+  "homepage": "https://github.com/Shamil-FD/SubRedditAPI.JS#readme"
 }
